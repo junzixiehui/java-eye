@@ -1,9 +1,10 @@
 
+[TOC]
+
+
+#### 推荐
 -  [参考](https://www.ibm.com/developerworks/cn/java/books/javaweb_xlb/10/index.html)
 - 多台服务器session共享问题;
-- 
-
-
 - Session需要Cookie的支持，每个Session有一个唯一的ID（name为JSESSIONID的Cookie）
 - Session 机制是建立在 Cookie 机制之上的
 
@@ -54,3 +55,18 @@ Session删除的时间是：
 - 1）Session超时：超时指的是连续一定时间服务器没有收到该Session所对应客户端的请求，并且这个时间超过了服务器设置的Session超时的最大时间。
 - 2）程序调用HttpSession.invalidate()
 - 3）服务器关闭或服务停止
+
+
+
+#### token
+
+> 如果我不保存这些session id ,  我怎么验证客户端发给我的session id的确是我生成的呢？  如果我不去验证，我都不知道他们是不是合法登录的用户， 那些不怀好意的家伙们就可以伪造session id , 为所欲为了。嗯，对了，关键点就是验证 ！
+
+- 别人伪造token 
+> 对数据进行**私密秘钥**加密签名，签名和数据一起发到服务端，服务端对数据再次进行加密签名，进行对比。
+- 别人获取到秘钥
+> 使用用户密码作为秘钥
+
+- 使用客户端唯一标识（例如浏览器的唯一标识）和用户唯一标识生成token，
+
+- token设置过期时间

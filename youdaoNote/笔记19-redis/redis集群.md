@@ -3,6 +3,16 @@
 Redis集群实现原理探讨
 https://tech.youzan.com/redisji-qun-shi-xian-yuan-li-tan-tao/
 
+### 目录
+- 复制
+- 节点
+- 槽指派
+- 分片
+- 故障转移
+- 重新分片
+- 转向
+
+
 #### 介绍
 
  > redis集群包括多个redis节点，节点间可以共享数据；

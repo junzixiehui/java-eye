@@ -15,14 +15,16 @@
 
 ## 笔记00-通用:
 
-* [1.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记00-通用/1.md)
+* [.DS_Store](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记00-通用/.DS_Store)
 * [哈希.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记00-通用/哈希.md)
 * [标志.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记00-通用/标志.md)
 
 ## 笔记01-算法:
 
+* [基础-通用.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记01-算法/基础-通用.md)
 * [查找.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记01-算法/查找.md)
 * [算法书籍.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记01-算法/算法书籍.md)
+* [算法理论-如何解题.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记01-算法/算法理论-如何解题.md)
 * [算法.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记01-算法/算法.md)
 
 ## 笔记02-数据结构:
@@ -59,32 +61,44 @@
 
 ## 笔记06-JVM:
 
+* [GC算法.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/GC算法.md)
 * [jvm调优-命令篇.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/jvm调优-命令篇.md)
 * [1.JVM内存结构.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/1.JVM内存结构.md)
 * [类的一生.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/类的一生.md)
 * [Jvm简介.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/Jvm简介.md)
 * [垃圾回收.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/垃圾回收.md)
+* [JIT编译.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/JIT编译.md)
 * [2.类的加载机制.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记06-JVM/2.类的加载机制.md)
 
 ## 笔记07-计算机网络:
 
 * [协议.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记07-计算机网络/协议.md)
 * [socket.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记07-计算机网络/socket.md)
+* [TCP协议.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记07-计算机网络/TCP协议.md)
 * [http协议.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记07-计算机网络/http协议.md)
 
 ## 笔记08-集合:
+
+* [hashMap.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记08-集合/hashMap.md)
+* [Set.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记08-集合/Set.md)
+* [List.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记08-集合/List.md)
+* [集合.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记08-集合/集合.md)
+
 ## 笔记09-设计模式:
 
 * [设计模式.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记09-设计模式/设计模式.md)
 * [门面设计模式.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记09-设计模式/门面设计模式.md)
+* [模板模式.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记09-设计模式/模板模式.md)
 * [状态模式.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记09-设计模式/状态模式.md)
 * [单例模式.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记09-设计模式/单例模式.md)
+* [命令模式.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记09-设计模式/命令模式.md)
 
 ## 笔记10-事务:
 ## 笔记11-操作系统:
 
 * [内存.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记11-操作系统/内存.md)
 * [操作系统书籍.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记11-操作系统/操作系统书籍.md)
+* [伪共享.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记11-操作系统/伪共享.md)
 * [CPU.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记11-操作系统/CPU.md)
 
 ## 笔记12-IO:
@@ -92,11 +106,15 @@
 * [IO.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记12-IO/IO.md)
 
 ## 笔记13-规范:
+
+* [sql规范.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记13-规范/sql规范.md)
+
 ## 笔记14-分布式:
 
 * [分布式系统数据一致.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记14-分布式/分布式系统数据一致.md)
 * [高并发.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记14-分布式/高并发.md)
 * [分布式系统事务.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记14-分布式/分布式系统事务.md)
+* [分布式ID.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记14-分布式/分布式ID.md)
 * [分布式理论.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记14-分布式/分布式理论.md)
 
 ## 笔记15-软件理论:
@@ -110,6 +128,8 @@
 ## 笔记16-linux:
 
 * [linux命令.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记16-linux/linux命令.md)
+* [性能分析命令.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记16-linux/性能分析命令.md)
+* [线上故障性能分析.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记16-linux/线上故障性能分析.md)
 * [shell.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记16-linux/shell.md)
 
 ## 笔记17-SOA服务化:
@@ -121,8 +141,11 @@
 ## 笔记19-redis:
 
 * [redis.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis.md)
+* [redis数据结构.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis数据结构.md)
 * [redis高可用.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis高可用.md)
+* [redis复制.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis复制.md)
 * [redis坑.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis坑.md)
+* [Redis持久化.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/Redis持久化.md)
 * [redis事务.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis事务.md)
 * [redis命令.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis命令.md)
 * [redis的Java版实现思路.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记19-redis/redis的Java版实现思路.md)
@@ -136,12 +159,16 @@
 ## 笔记22-领域驱动设计:
 
 * [领域驱动设计概要.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记22-领域驱动设计/领域驱动设计概要.md)
+* [值对象.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记22-领域驱动设计/值对象.md)
 * [领域驱动框架.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记22-领域驱动设计/领域驱动框架.md)
 * [领域建模.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记22-领域驱动设计/领域建模.md)
 * [领域驱动事件.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记22-领域驱动设计/领域驱动事件.md)
 
 ## 笔记23-单元测试:
 ## 笔记24-ORM:
+
+* [Mybatis.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记24-ORM/Mybatis.md)
+
 ## 笔记25-缓冲:
 
 * [缓冲.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记25-缓冲/缓冲.md)
@@ -179,6 +206,7 @@
 * [代码质量.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记31-代码质量/代码质量.md)
 * [genkins.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记31-代码质量/genkins.md)
 * [公司通用代码格式化模板.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记31-代码质量/公司通用代码格式化模板.md)
+* [code review.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记31-代码质量/code review.md)
 * [sonarQube.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记31-代码质量/sonarQube.md)
 * [PMD.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记31-代码质量/PMD.md)
 * [测试覆盖率.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记31-代码质量/测试覆盖率.md)
@@ -221,13 +249,19 @@
 
 * [git.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记39-编程工具/git.md)
 
+## 笔记40-zookeeper:
+
+* [zookeeper.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记40-zookeeper/zookeeper.md)
+
 ## 笔记番外篇-入职必备:
 ## 笔记番外篇-面试:
 
 * [面试-Java基础.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记番外篇-面试/面试-Java基础.md)
+* [面试简历.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记番外篇-面试/面试简历.md)
 * [面试点.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记番外篇-面试/面试点.md)
 * [面试题集.md](https://github.com/junzixiehui/java-eye/blob/master/youdaoNote/笔记番外篇-面试/面试题集.md)
 
 ## 后记 :memo:
 **关于仓库**
+**持续更新中...**
 **Q群联系:180125351**
