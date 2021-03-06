@@ -3,6 +3,9 @@
 
 :loudspeaker: 大部分内容结合网上 书上 加一些总结而来 持续更新中... 欢迎提意见。
 
+![image](https://github.com/junzixiehui/java-eye/blob/master/photo/计算机模型思维.png?raw=true)
+
+
 ### 高效进步:
 
 * [如何高效编程](https://github.com/junzixiehui/java-eye/blob/master/note/study/如何高效编程.md)
